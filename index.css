@@ -1,0 +1,47 @@
+body {
+ background-color: #000000;
+ color: #ffffff;
+ font-family: 'Ubuntu', sans-serif;
+ text-align:center;
+ }
+ 
+ header {
+     background-color: #ffffff;
+  color: black;
+     font-family: 'Anton', sans-serif;
+     font-size: 150%;
+     text align: center;
+  padding: 20px; 
+ }
+ 
+ .parrot {
+     color: white;
+     font-family: Century Gothic;
+     font-size: 140%;
+     text align: right;
+ }
+  .dog {
+     color: white;
+     font-family: Century Gothic;
+     font-size: 140%;
+     text align: right;
+ }
+ 
+ a {
+   background-color: white;
+   border-radius:6px;
+   color: #414141;
+   font-family: 'Ubuntu', sans-serif;
+   color: grey;
+   text-align: left;
+   text-decoration: none;
+ }
+ 
+ a:hover {
+   background-color: #000000;
+   border-radius:6px;
+   font-family: 'Ubuntu', sans-serif;
+   color: white;
+   text-align: left;
+   text-decoration: none;
+ }
