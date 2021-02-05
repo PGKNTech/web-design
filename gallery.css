@@ -1,0 +1,37 @@
+body {
+ background-color:#181515;
+  color:#ffffff;
+ font-family: comfortaa, cursive;
+ font-size: 5.1vw;
+}
+
+h1 {
+   color:#000000;
+ font-family: comfortaa, cursive;
+ font-size: 150%;
+ }
+ 
+ header {
+   background-color: #ffffff;
+   padding: 30px;
+   color: #000000;
+ font-family: comfortaa, cursive;
+ font-size: 110%;
+}
+
+footer {
+   background-color: #565656;
+   padding: 30px;   
+}
+
+   
+h3 {
+ color:#c7c7c7;
+ font-family: comfortaa, cursive;
+ font-size: 110%;
+ }
+ 
+img {
+  width: 55%;
+ height: 40%;
+}
