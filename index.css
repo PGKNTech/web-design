@@ -38,10 +38,10 @@ body {
  }
  
  a:hover {
-   background-color: #000000;
+   background-color: orange;
    border-radius:6px;
    font-family: 'Ubuntu', sans-serif;
-   color: white;
+   color: #000000;
    text-align: left;
    text-decoration: none;
  }
