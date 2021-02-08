@@ -23,7 +23,7 @@ header {
  margin: auto;
 }
 /* Phones */
-@media only screen and (max-width: 400px)
+@media only screen and (max-width: 600px)
 header {
   background-color: white;
   text-align: center;
