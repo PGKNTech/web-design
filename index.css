@@ -22,6 +22,14 @@ header {
  width: 23%;
  margin: auto;
 }
+
+.content {
+  max-width: 75%;
+  margin: auto;
+  background: #000000;
+  padding: 10px;
+}
+
 /* Phones */
 @media only screen and (max-width: 600px)
 header {
@@ -73,3 +81,9 @@ header {
    text-align: left;
    text-decoration: none;
  }
+
+.content {
+  max-width: 100%;
+  margin: auto;
+  background: #000000
+}
